@@ -1,0 +1,14 @@
+.map-container {
+    flex: 1;
+    height: 100%;
+    width: 100%;
+  }
+  
+  .leaflet-popup-content {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  .leaflet-popup-content p {
+    margin: 5px 0;
+  }
