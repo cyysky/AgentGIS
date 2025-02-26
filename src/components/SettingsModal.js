@@ -63,6 +63,7 @@ const SettingsModal = ({ settings, onSave, onClose }) => {
             >
               <option value="gpt-4">GPT-4</option>
               <option value="gpt-3.5-turbo">GPT-3.5 Turbo</option>
+              <option value="deepseek-r1:8b-llama-distill-q8_0">deepseek-r1 8b</option>
             </select>
           </div>
           
